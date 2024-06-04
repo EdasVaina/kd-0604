@@ -1,0 +1,13 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-color: azure;
+}
+.header{
+    background-color: aliceblue;
+    margin: auto;
+    border: solid 1px black;
+}
+#forma {
+    margin-top: 80px;
+}
